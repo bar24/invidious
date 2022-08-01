@@ -296,7 +296,7 @@ input[type="search"]::-webkit-search-cancel-button {
 .flex-right { flex: 1 0 auto; flex-wrap: nowrap; }
 
 p.channel-name { margin: 0; }
-p.video-data   { margin: 0; font-weight: bold; font-size: 80%; }
+p.video-data   { margin: 0; font-weight: bold; font-size: 80%; padding: 0.15em; }
 
 
 /*
